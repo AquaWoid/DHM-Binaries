@@ -1,0 +1,36 @@
+[
+  {
+    "id": 76744,
+    "review": {
+      "reviewed": false,
+      "reviewed_by": "",
+      "review_notes": "",
+      "problem_flagged": false
+    },
+    "name": "Peter Löffler zieht 1511 zur Belagerung von Peutelstein.",
+    "source": {
+      "id": "https://api.zotero.org/groups/2556736/items/WIZZFXRV",
+      "text": "Egg, E., 1961. <i>Der Tiroler Geschützguß: 1400 - 1600</i>, Innsbruck: Wagner.",
+      "pages_start": null,
+      "pages_end": null,
+      "folio": "84"
+    }
+  },
+  {
+    "id": 76752,
+    "review": {
+      "reviewed": false,
+      "reviewed_by": "",
+      "review_notes": "",
+      "problem_flagged": false
+    },
+    "name": "Peter Löffler gießt 1509 vier Hagelbüchsen mit Eisenstangen in den Kugeln.",
+    "source": {
+      "id": "https://api.zotero.org/groups/2556736/items/WIZZFXRV",
+      "text": "Egg, E., 1961. <i>Der Tiroler Geschützguß: 1400 - 1600</i>, Innsbruck: Wagner.",
+      "pages_start": null,
+      "pages_end": null,
+      "folio": "84"
+    }
+  }
+]

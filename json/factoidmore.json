@@ -1,0 +1,257 @@
+[
+  {
+    "id": 76744,
+    "review": {
+      "reviewed": false,
+      "reviewed_by": "",
+      "review_notes": "",
+      "problem_flagged": false
+    },
+    "name": "Peter Löffler zieht 1511 zur Belagerung von Peutelstein.",
+    "source": {
+      "id": "https://api.zotero.org/groups/2556736/items/WIZZFXRV",
+      "text": "Egg, E., 1961. <i>Der Tiroler Geschützguß: 1400 - 1600</i>, Innsbruck: Wagner.",
+      "pages_start": null,
+      "pages_end": null,
+      "folio": "84"
+    },
+    "has_statements": [
+      {
+        "__object_type__": "performanceoftask",
+        "id": 76745,
+        "name": "[AUSÜBUNG EINER TÄTIGKEIT] Peter Löffler zieht 1511 zur Belagerung von Peutelstein.",
+        "start_date_written": "1511",
+        "end_date_written": "",
+        "notes": null,
+        "internal_notes": null,
+        "head_statement": true,
+        "certainty": {
+          "notes": "",
+          "certainty": 4
+        },
+        "certainty_values": {
+          "certainty": {
+            "notes": "",
+            "certainty": 4
+          },
+          "Ausführende": {
+            "notes": "",
+            "certainty": 4
+          },
+          "Ort_der_Handlung": {
+            "notes": "",
+            "certainty": 4
+          },
+          "certainty_values": {
+            "notes": "",
+            "certainty": 4
+          },
+          "end_date_written": {
+            "notes": "",
+            "certainty": 4
+          },
+          "start_date_written": {
+            "notes": "",
+            "certainty": 4
+          },
+          "ausgeführte_Tätigkeit": {
+            "notes": "",
+            "certainty": 4
+          },
+          "Handlung_ausgeführt_von": {
+            "notes": "",
+            "certainty": 4
+          }
+        },
+        "Handlung_ausgeführt_von": [
+          {
+            "__object_type__": "person",
+            "id": 53019,
+            "label": "Peter Löffler, genannt Laiminger, Büchsenmeister [Schuh-Index \\loffler,:\\01*] [person]"
+          }
+        ],
+        "Ort_der_Handlung": [
+          {
+            "__object_type__": "place",
+            "id": 58082,
+            "label": "Burg Peutelstein/Castello di Botestagno in Cortina d'Ampezzo, Italien [Schuh-Index \\cortina d'ampezzo/italien:\\01*] [place]"
+          }
+        ],
+        "ausgeführte_Tätigkeit": [
+          {
+            "__object_type__": "task",
+            "id": 75865,
+            "label": "Büchsenmeister"
+          }
+        ],
+        "Ausführende": [
+          {
+            "__object_type__": "person",
+            "id": 53019,
+            "label": "Peter Löffler, genannt Laiminger, Büchsenmeister [Schuh-Index \\loffler,:\\01*] [person]"
+          }
+        ]
+      }
+    ],
+    "created_by": "AlexandraBurger",
+    "created_when": "2023-12-04T09:45:22.291294Z",
+    "modified_by": "gvogeler",
+    "modified_when": "2025-01-24T20:17:06.987489Z"
+  },
+  {
+    "id": 76747,
+    "review": {
+      "reviewed": false,
+      "reviewed_by": "",
+      "review_notes": "",
+      "problem_flagged": false
+    },
+    "name": "Prinz von Symay ist männlich",
+    "source": {
+      "id": "https://api.zotero.org/groups/2556736/items/JSAC4MUW",
+      "text": "Terjanian, P. et al. eds., 2019. <i>The Last Knight. The Art, Armor, and Ambition of Maximilian I. New York (The Metropolitan Museum of Art). Cat. New York 2019</i> P. Terjanian et al., eds., New York, NY: The Metropolitan Museum of Art.",
+      "pages_start": null,
+      "pages_end": null,
+      "folio": "S. 122"
+    },
+    "has_statements": [
+      {
+        "__object_type__": "gendering",
+        "id": 76748,
+        "name": "[GENDERING] Prinz von Symay ist männlich",
+        "start_date_written": null,
+        "end_date_written": null,
+        "notes": null,
+        "internal_notes": null,
+        "head_statement": true,
+        "certainty": {
+          "notes": "",
+          "certainty": 4
+        },
+        "certainty_values": {
+          "gender": {
+            "notes": "",
+            "certainty": 4
+          },
+          "person": {
+            "notes": "",
+            "certainty": 4
+          },
+          "certainty": {
+            "notes": "",
+            "certainty": 4
+          },
+          "certainty_values": {
+            "notes": "",
+            "certainty": 4
+          },
+          "end_date_written": {
+            "notes": "",
+            "certainty": 4
+          },
+          "start_date_written": {
+            "notes": "",
+            "certainty": 4
+          }
+        },
+        "gender": "männlich"
+      }
+    ],
+    "created_by": "rkulka",
+    "created_when": "2023-12-04T09:46:33.271514Z",
+    "modified_by": "rkulka",
+    "modified_when": "2023-12-04T09:46:33.271547Z"
+  },
+  {
+    "id": 76752,
+    "review": {
+      "reviewed": false,
+      "reviewed_by": "",
+      "review_notes": "",
+      "problem_flagged": false
+    },
+    "name": "Peter Löffler gießt 1509 vier Hagelbüchsen mit Eisenstangen in den Kugeln.",
+    "source": {
+      "id": "https://api.zotero.org/groups/2556736/items/WIZZFXRV",
+      "text": "Egg, E., 1961. <i>Der Tiroler Geschützguß: 1400 - 1600</i>, Innsbruck: Wagner.",
+      "pages_start": null,
+      "pages_end": null,
+      "folio": "84"
+    },
+    "has_statements": [
+      {
+        "__object_type__": "creationact",
+        "id": 76753,
+        "name": "[HERSTELLUNG] Peter Löffler gießt 1509 vier Hagelbüchsen mit Eisenstangen in den Kugeln.",
+        "start_date_written": "1509",
+        "end_date_written": "1509",
+        "notes": null,
+        "internal_notes": null,
+        "head_statement": true,
+        "certainty": {
+          "notes": "",
+          "certainty": 4
+        },
+        "certainty_values": {
+          "Produkt": {
+            "notes": "",
+            "certainty": 4
+          },
+          "certainty": {
+            "notes": "",
+            "certainty": 4
+          },
+          "Ausgeführt_von": {
+            "notes": "",
+            "certainty": 4
+          },
+          "Ort_der_Handlung": {
+            "notes": "",
+            "certainty": 4
+          },
+          "certainty_values": {
+            "notes": "",
+            "certainty": 4
+          },
+          "end_date_written": {
+            "notes": "",
+            "certainty": 4
+          },
+          "start_date_written": {
+            "notes": "",
+            "certainty": 4
+          },
+          "Handlung_ausgeführt_von": {
+            "notes": "",
+            "certainty": 4
+          }
+        },
+        "Ort_der_Handlung": [
+          {
+            "__object_type__": "place",
+            "id": 59803,
+            "label": "Hötting in Innsbruck, Tirol [Schuh-Index \\innsbruck/tirol 1:\\55*] [place]"
+          }
+        ],
+        "Ausgeführt_von": [
+          {
+            "__object_type__": "person",
+            "id": 53019,
+            "label": "Peter Löffler, genannt Laiminger, Büchsenmeister [Schuh-Index \\loffler,:\\01*] [person]"
+          }
+        ],
+        "Produkt": [
+          {
+            "__object_type__": "arms",
+            "id": 76751,
+            "label": "Hagelbüchse"
+          }
+        ]
+      }
+    ],
+    "created_by": "AlexandraBurger",
+    "created_when": "2023-12-04T09:47:11.468286Z",
+    "modified_by": "AlexandraBurger",
+    "modified_when": "2023-12-04T09:47:11.468298Z"
+  }
+]

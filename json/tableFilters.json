@@ -1,0 +1,50 @@
+[
+  {
+    "name": "id",
+    "enabled": true
+  },
+  {
+    "name": "name",
+    "enabled": true
+  },
+  {
+    "name": "created_by",
+    "enabled": false
+  },
+  {
+    "name": "created_when",
+    "enabled": true
+  },
+  {
+    "name": "modified_when",
+    "enabled": true
+  },
+  {
+    "name": "modified_by",
+    "enabled": true
+  },
+  {
+    "name": "statements[0].id",
+    "enabled": true
+  },
+  {
+    "name": "statements[0].name",
+    "enabled": true
+  },
+  {
+    "name": "statements[0].__object_type__",
+    "enabled": true
+  },
+  {
+    "name": "statements[0].start_date_written",
+    "enabled": true
+  },
+  {
+    "name": "Handlung_ausgeführt_von",
+    "enabled": true
+  },
+  {
+    "name": "Ort_der_Handlung",
+    "enabled": true
+  }
+]
